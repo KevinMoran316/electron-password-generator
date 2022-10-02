@@ -1,3 +1,3 @@
 ﻿# electron-password-generator
 ejecutar npm install
-#para probar ejecutar el script npm run start
+para probar ejecutar el script npm run start
